@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "todo": "submit the assignment",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "todo": "watch the video",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "todo": "review my code",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "todo": "study for loop",
+        "completed": false
+    }
+]
